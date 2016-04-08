@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white_30">#4dffffff</color>
+    <color name="transparent_white_60">#99ffffff</color>
+    <color name="transparent_white_90">#e6ffffff</color>
+    <color name="black_trans_50">#80000000</color>
+    <color name="black_trans_30">#4d000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="white_hint">#e1e1e1</color>
+    <color name="white_press">#f4f4f4</color>
+    <color name="red">#ff0000</color>
+
+    <color name="main_color">#dd2127</color>
+    <color name="main_color_press">#80dd2127</color>
+
+    <color name="fb_color">#3e5b9a</color>
+    <color name="fb_color_press">#803e5b9a</color>
+
+    <color name="divider">#dcdcdc</color>
+    <color name="bg_profile_left_menu">#f2f2f2</color>
+    <color name="pink_transaction">#fee5e5</color>
+    <color name="pink_light">#fee5e5</color>
+    <color name="pink_dark">#ffdada</color>
+    <color name="yellow_add_cart">#ff9b00</color>
+    <color name="yellow_add_cart_press">#80ff9b00</color>
+
+    <color name="txt_black_77">#777777</color>
+    <color name="txt_black_55">#555555</color>
+    <color name="txt_black_55_hint">#c1c1c1</color>
+    <color name="txt_black_33">#333333</color>
+    <color name="txt_black_96">#969696</color>
+    <color name="txt_black">#000000</color>
+    <color name="txt_label">#acacac</color>
+</resources>
